@@ -48,3 +48,11 @@
 
 ## Differences with Project Plan
 We have followed the project plan closely throughout the development process. As a result, the implementation matches the expected output outlined in the plan. Any deviations were minor and did not impact the core objectives of the project.
+
+## Experiment Preperations
+
+To ensure the experiment runs as smoothly as possible, we must make sure the following requirements are met:
+1. The VR headset is fully charged and the controllers have sufficient battery life.
+2. On the laptop, the [Meta Quest Link app](https://www.meta.com/nz/quest/setup/) is open.
+4. After the VR Headset is on and boundaries are set, plug in headset into laptop using a USB-C connection.
+5. After establishing the Meta Quest Link, run the scene in Unity to get started.
